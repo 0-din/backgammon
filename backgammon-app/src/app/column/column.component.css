@@ -1,0 +1,17 @@
+.column {
+  width: 100px;
+  height: 50%;
+
+  position: relative;
+  width: 200px; /* Example width */
+  height: 200px; /* Example height */
+  border: 1px solid black; /* Example border */
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent; /* Adjust size of triangle */
+  border-right: 100px solid transparent; /* Adjust size of triangle */
+  border-bottom: 200px solid red; /* Adjust height and color of triangle */
+}

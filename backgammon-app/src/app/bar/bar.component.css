@@ -1,0 +1,9 @@
+.bar {
+  background-color: rgb(115, 75, 39);
+  width: 40px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  transform: translateX(-50%);
+  position: static;
+}
